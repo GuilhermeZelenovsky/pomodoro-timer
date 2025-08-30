@@ -5,6 +5,22 @@ Um aplicativo de timer Pomodoro para ajudar na produtividade e gestão de tempo,
 
 ## 2. Status Atual do Projeto
 
+### ✅ Deploy e Publicação (Agosto 2025)
+- ✅ **Aplicação publicada no Vercel**
+  - URL: https://pomodoro-timer-mu-tan.vercel.app
+  - Deploy automático via GitHub
+  - SSL/HTTPS configurado automaticamente
+  
+- ✅ **Repositório no GitHub**
+  - URL: https://github.com/GuilhermeZelenovsky/pomodoro-timer
+  - Código versionado com Git
+  - Integração com Vercel para CI/CD
+
+- 🔄 **Domínio Personalizado** (Em andamento)
+  - Pesquisa de nomes criativos concluída
+  - Próximo: Registro no Registro.br
+  - Configuração DNS para Vercel
+
 ### ✅ Implementado (Fase 1 e 2 Completas)
 - ✅ **Migração para Next.js com TypeScript**
   - Framework moderno com App Router
